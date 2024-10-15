@@ -26,8 +26,8 @@ const Feed = () => {
       );
     }
 
-    // Simula paginação (exibindo 3 itens por vez)
-    setContent(prevContent => [...prevContent, ...filteredContent.slice(0, page * 3)]);
+    // Simula paginação (exibindo 6 itens por vez)
+    setContent(prevContent => [...prevContent, ...filteredContent.slice(0, page * 6)]);
     setLoading(false);
   };
 
