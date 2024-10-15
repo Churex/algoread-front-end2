@@ -1,0 +1,23 @@
+// mockData.js
+export const mockContents = [
+  { id: 1, title: 'Primeira Notícia', body: 'Este é o conteúdo da primeira notícia.', category: 'novidades', tags: ['Tecnologia'] },
+  { id: 2, title: 'Segunda Notícia', body: 'Este é o conteúdo da segunda notícia.', category: 'estudo', tags: ['Ciência'] },
+  { id: 3, title: 'Terceira Notícia', body: 'Este é o conteúdo da terceira notícia.', category: 'entretenimento', tags: ['Tecnologia', 'Ciência'] },
+  { id: 4, title: 'Quarta Notícia', body: 'Este é o conteúdo da quarta notícia.', category: 'novidades', tags: ['Ciência'] },
+  { id: 5, title: 'Quinta Notícia', body: 'Este é o conteúdo da quinta notícia.', category: 'estudo', tags: ['Tecnologia'] },
+  { id: 6, title: 'Sexta Notícia', body: 'Este é o conteúdo da sexta notícia.', category: 'novidades', tags: ['Ciência'] },
+  { id: 7, title: 'Sétima Notícia', body: 'Este é o conteúdo da sétima notícia.', category: 'entretenimento', tags: ['Tecnologia', 'Ciência'] },
+  { id: 8, title: 'Oitava Notícia', body: 'Este é o conteúdo da oitava notícia.', category: 'novidades', tags: ['Tecnologia'] },
+  { id: 9, title: 'Nona Notícia', body: 'Este é o conteúdo da nona notícia.', category: 'estudo', tags: ['Tecnologia', 'Ciência'] },
+  { id: 10, title: 'Décima Notícia', body: 'Este é o conteúdo da décima notícia.', category: 'entretenimento', tags: ['Ciência'] },
+  { id: 11, title: 'Décima Primeira Notícia', body: 'Este é o conteúdo da décima primeira notícia.', category: 'novidades', tags: ['Tecnologia', 'Ciência'] },
+  { id: 12, title: 'Décima Segunda Notícia', body: 'Este é o conteúdo da décima segunda notícia.', category: 'estudo', tags: ['Ciência'] },
+  { id: 13, title: 'Décima Terceira Notícia', body: 'Este é o conteúdo da décima terceira notícia.', category: 'novidades', tags: ['Tecnologia', 'Ciência'] },
+  { id: 14, title: 'Décima Quarta Notícia', body: 'Este é o conteúdo da décima quarta notícia.', category: 'entretenimento', tags: ['Tecnologia'] },
+  { id: 15, title: 'Décima Quinta Notícia', body: 'Este é o conteúdo da décima quinta notícia.', category: 'novidades', tags: ['Tecnologia', 'Ciência'] },
+  { id: 16, title: 'Décima Sexta Notícia', body: 'Este é o conteúdo da décima sexta notícia.', category: 'estudo', tags: ['Ciência'] },
+  { id: 17, title: 'Décima Sétima Notícia', body: 'Este é o conteúdo da décima sétima notícia.', category: 'novidades', tags: ['Tecnologia'] },
+  { id: 18, title: 'Décima Oitava Notícia', body: 'Este é o conteúdo da décima oitava notícia.', category: 'entretenimento', tags: ['Tecnologia', 'Ciência'] },
+  { id: 19, title: 'Décima Nona Notícia', body: 'Este é o conteúdo da décima nona notícia.', category: 'estudo', tags: ['Ciência'] },
+  { id: 20, title: 'Vigésima Notícia', body: 'Este é o conteúdo da vigésima notícia.', category: 'novidades', tags: ['Tecnologia', 'Ciência'] },
+];
